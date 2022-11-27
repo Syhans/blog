@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 'Pokémon Scarlet/Violet "Intended" Order (SPOILER WARNING: Storyline Boss Encounter Levels)'
-date: 2022-11-22T22:37:40+0100 # date +"%Y-%m-%dT%H:%M:%S%z"
+date: 2022-11-27T21:35:38+0100 # date +"%Y-%m-%dT%H:%M:%S%z"
 ---
 
 The new Pokémon games are the first mainline games where one can go wherever they please, pretty much from the start. However, because content does not scale based on game progress, there is still an "intended" order of progressing through the game, dictated by the Pokémon levels of the Treasure Hunt challenges. This is basically just an as spoiler-free as possible list of the various challenges in Pokémon SV, ordered by boss encounter level.
@@ -29,3 +29,4 @@ The new Pokémon games are the first mainline games where one can go wherever th
 | Victory Road (Gyms)         | Elite Four | 57-62 |
 | Path of Legends (Titans)    | Finale     | 58-63 |
 | Starfall Street (Team Star) | Finale     | 60-63 |
+| Victory Road (Gyms)         | Finale     | 65-66 |
